@@ -1,17 +1,17 @@
 # Booleans
 
 ## Explanation
-Flax supports using booleans in the material graph, this can be very helpful to apply conditional checks like using one texture or another for instance. All operators are supported as well as using switches depending on the state of a bool.
+Flax supports using booleans in the material graph, this can be very helpful to apply conditional checks like using one texture or another for instance. All operators are supported as well as using switches to evaluate the state of a bool.
 
 ## Example
 
-Below is a simple example for what booleans can be used for, like determining which [constants](constant.md) the material should use, this can of course extend to almost any type.
+Below is a simple example for what booleans can be used for, like determining which [constant](constant.md) the material should use, this can of course extend to almost any type.
 
-![bitwise](..\media\examples\boolean-example.png)
+![example1](../media/examples/boolean-example.png)
 
 ## Nodes
 
-![bitwise](..\media\nodes\boolean-nodes.png)
+![nodes](../media/nodes/boolean-nodes.png)
 
 |      Node       |                                Description                              |
 | :------------:  | :---------------------------------------------------------------------: |

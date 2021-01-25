@@ -1,11 +1,13 @@
 # Bitwise operator nodes
 
 ## Explanation
-Bitwise operators apply the specific operator to each bit, a quick way of explaining it is like this, say we have 2 bytes and are using the AND operator.
+Bitwise operators apply the specific operator to each bit.
 
 ## Example
 
-We apply the AND operator each bit.
+ A easy way of explaining it is like this, say we have 2 bytes and are using the AND operator.
+
+We apply the AND operator to each bit.
 
 |      Byte      |      ...     |
 | :------------: | :----------: |
@@ -23,6 +25,6 @@ Same goes for any other type of operator like XOR for example.
 
 ## Nodes
 
-![bitwise](..\media\nodes\bitwise-nodes.png)
+![bitwise](../media/nodes/bitwise-nodes.png)
 
-You can learn more about the individual operators [here](https://thinkinbinary.blogspot.com/2014/11/bitwise-operators-and-conclusion-of.html).
+You can learn more about the individual operators [here](boolean.md).
