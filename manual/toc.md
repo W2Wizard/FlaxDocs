@@ -79,15 +79,11 @@
 ### [Material Functions](graphics/materials/material-functions.md)
 
 ### [Material Nodes](graphics/materials/material-nodes/index.md)
-#### [Bitwise](graphics/materials/material-nodes/nodes/bitwise.md)
-#### [Boolean](graphics/materials/material-nodes/nodes/boolean.md)
 #### [Constant](graphics/materials/material-nodes/nodes/constant.md)
 #### [Layers](graphics/materials/material-nodes/nodes/layers.md)
 #### [Material](graphics/materials/material-nodes/nodes/material.md)
-#### [Packing](graphics/materials/material-nodes/nodes/packing.md)
 #### [Particle](graphics/materials/material-nodes/nodes/particle.md)
 #### [Textures](graphics/materials/material-nodes/nodes/textures.md)
-#### [Tools](graphics/materials/material-nodes/nodes/constant.md)
 
 
 ## [Decals](graphics/decals/index.md)

@@ -6,12 +6,8 @@ Flax provides a wide range of nodes that can be used in the [Material Editor](..
 
 ## In this section
 
-* [Bitwise Operators](nodes/bitwise.md)
-* [Booleans](nodes/boolean.md)
 * [Constants](nodes/constant.md)
 * [Layer Nodes](nodes/layers.md)
 * [Material Nodes](nodes/material.md)
-* [Packing Nodes](nodes/packing.md)
 * [Particle Nodes](nodes/particle.md)
 * [Texture Nodes](nodes/textures.md)
-* [Tools](nodes/tools.md)

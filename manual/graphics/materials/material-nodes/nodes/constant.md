@@ -10,9 +10,9 @@ You can also multiply a boolean with a vector3 or add an integer to a color for 
 
 ### **Float constant**
 
-Floats in short simply describe a floating point number.
+Floats in short, simply describe a floating point number.
 
-However, think of a float more than just simple a number but also as a grayscale image, the closer to 0 the more darker the image would get and vice versa, the best way to visualize this is using a color gradient, here we can see the values 0 to 1 and all that is in between. 
+However, when dealing with shaders think of a float more than just simple a number but also as a grayscale image, the closer to 0 the more darker the image would get and vice versa, the best way to visualize this is using a color gradient, here we can see the values 0 to 1 and all that is in between. 
 
 ![example](../media/examples/constant-gradient-example.png)
 
