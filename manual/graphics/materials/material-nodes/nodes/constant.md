@@ -60,9 +60,7 @@ A color constant is similar to a vector4 with the main difference being that its
 
 ## Example
 
-In this example we can multiply a constant float with Texcoords, this results in a tiling effect, the higher the number the more tiling occurs. Notice that Texcoords is a vector2 and our float constant multiplies it.
-
-TODO: More examples
+In this example we can multiply a constant float with [Texcoords](textures.md), this results in a tiling effect, the higher the number the more tiling occurs. Notice that Texcoords is a vector2 and our float constant multiplies it.
 
 ![example](../media/examples/constant-example.png)
 
